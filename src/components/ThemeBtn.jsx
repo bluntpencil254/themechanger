@@ -1,5 +1,5 @@
 import React from 'react'
-import useTheme from './contexts/Theme'
+import useTheme from './contexts/theme'
 
 function ThemeBtn() {
 
